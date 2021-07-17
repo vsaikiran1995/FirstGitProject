@@ -37,5 +37,9 @@ public class HomePage{
 		return driver.findElements(links);
 	}
 	
+	
+	public void abc(){
+		System.out.println("sdfghjk");
+	}
 
 }
