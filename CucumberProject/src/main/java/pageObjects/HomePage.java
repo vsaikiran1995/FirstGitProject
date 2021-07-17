@@ -42,4 +42,11 @@ public class HomePage{
 		System.out.println("sdfghjk");
 	}
 
+	public void xyz(){
+		System.out.println("sdfghjk");
+	}
+	
+	public void pqr(){
+		System.out.println("sdfghjk");
+	}
 }
