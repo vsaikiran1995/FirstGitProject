@@ -45,4 +45,8 @@ public class HomePage{
 	public void xyz(){
 		System.out.println("sdfghjk");
 	}
+	
+	public void pqr(){
+		System.out.println("sdfghjk");
+	}
 }
